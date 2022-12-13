@@ -2,8 +2,9 @@
 
 /**
  * _isalpha - check the code
- *
- * Return: Always 0.
+ * @c: character to be checked.
+ * Return: 1 if the character is an English character.
+ * 0 if the character is not an English character.
  */
 int _isalpha(int c)
 {
