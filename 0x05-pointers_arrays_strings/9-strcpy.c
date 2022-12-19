@@ -5,7 +5,7 @@
  * including the terminating null byte (\0)
  * to the buffer pointed to by dest
  * @dest: pointer to the buffer in which we copy the string
- * @src: string to be copie
+ * @src: string to be copied
  *
  * Return pointer to dest
  */
