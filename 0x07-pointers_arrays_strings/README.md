@@ -1,0 +1,1 @@
+More PointersArrays Strings
